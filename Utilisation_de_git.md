@@ -10,3 +10,6 @@ format:
 # Introduction
 
 L'objectif de cet atelier est de progresser dans notre utilisation de git. En particulier pour ce bootcamp, on veut voir comment intéragir avec le dépot finisR2023 (pull request, proposer un fichier markdown, ...) 
+
+
+### Test conflits 
